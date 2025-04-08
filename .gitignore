@@ -1,0 +1,21 @@
+**/dictionary/
+**/dictionary/*
+**/assets/
+
+# Ignore all VS Code folders and files
+.vscode/
+*.code-workspace
+
+# Ignore all IntelliJ IDEA folders and files
+.idea/
+*.iml
+
+# Ignore all compiled Java files and archives
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore Maven and Gradle build directories
+target/
+build/
